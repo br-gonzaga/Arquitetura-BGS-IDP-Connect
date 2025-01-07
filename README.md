@@ -1,0 +1,1 @@
+O presente documento consolida todas as informações relacionadas ao projeto BGS IDP Connect, desenvolvido para a integração e autenticação unificada dos sistemas da BGS Corporate. Ele inclui a arquitetura técnica, fluxos de autenticação, modelo de dados, requisitos de compliance e resultados de validação.
